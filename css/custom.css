@@ -62,3 +62,6 @@ color: #57068c;
 color: #57068c;
 
 }
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #57068c;
+}
