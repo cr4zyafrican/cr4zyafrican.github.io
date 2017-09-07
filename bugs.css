@@ -64,6 +64,10 @@ color: purple;
     background-color: #57068c;
     border-color: #57068c;
 }
+.glyphicon {
+    margin-right: 10px;
+    color: #57068c;
+}
 
 .jumbotron{
 color: #57068c;
