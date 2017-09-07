@@ -59,7 +59,11 @@ color: yellow;
 .h1{
 color: purple;
 }
-
+.btn-primary {
+    color: #fff;
+    background-color: #57068c;
+    border-color: #57068c;
+}
 
 .jumbotron{
 color: #57068c;
