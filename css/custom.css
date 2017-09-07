@@ -51,6 +51,11 @@ margin-right: 10px;
 color: #57068c;
 
 }
+.btn-primary {
+    color: #fff;
+    background-color: #57068c;
+    border-color: #57068c;
+}
 
 
 .jumbotron{
